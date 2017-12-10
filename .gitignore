@@ -7,6 +7,8 @@
 
 # dependencies
 /node_modules
+/release-builds
+/dist
 
 # IDEs and editors
 /.idea
